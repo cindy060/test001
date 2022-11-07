@@ -1,3 +1,17 @@
-body{
-    color: brown;
+header{
+    height: 250px;
+    outline: 1px solid red;
+    background-image: url(https://images.pexels.com/photos/326612/pexels-photo-326612.jpeg?cs=srgb&dl=pexels-pixabay-326612.jpg&fm=jpg&_gl=1*16m5t3g*_ga*OTk0NTQ5NDkuMTY2NzgwNTQ1MQ..*_ga_8JE65Q40S6*MTY2NzgwNTQ1MS4xLjEuMTY2NzgwNTQ4MC4wLjAuMA..);
+    background-size: cover;
+    background-position: center center;
 }
+header h1{
+ margin: 0;
+ padding-left: 50px;
+ padding-top: 20px;
+}
+header h2{
+    margin: 0;
+    padding-left: 50px;
+    padding-top: 20px;
+   }
